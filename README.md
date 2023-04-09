@@ -13,4 +13,4 @@
 在issues直接说
 
 #License
-GPL许可
+许可Mozilla
