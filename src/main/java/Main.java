@@ -15,6 +15,7 @@ public class Main {
         CommonTokenStream tokens;
         ParseTree tree;
         while(true) {
+            System.out.println(">>>");
             Scanner scanner = new Scanner(System.in);
             if(scanner.hasNextLine()) {
                 x = scanner.nextLine();
